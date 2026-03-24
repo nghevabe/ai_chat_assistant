@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240305059605",
+    "project_id": "ai-assistant-service-d86f3",
+    "storage_bucket": "ai-assistant-service-d86f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240305059605:android:6f094ec8170c6d6e27db1c",
+        "android_client_info": {
+          "package_name": "com.example.ai_chat_assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlJW18x7R1CKueaN5ZyHdplehGCpYKUL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
